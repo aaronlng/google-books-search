@@ -2,7 +2,7 @@
 
 A React-based Google Books Search app. This app allows the user to query and display books based on specific searches. It also allows users to save books to review or purchase later.
 
-![Demo of the Google Books Search App](/assets/images/demo.gif)
+![Demo of the Google Books Search App](/client/assets/demo.gif)
 
 ## Development setup
 
