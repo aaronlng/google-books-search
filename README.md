@@ -18,9 +18,9 @@ npm start
 
 - Express.JS
 
-- Node.JS
-
 - React.JS
+
+- Node.JS
 
 ## Demo the App
 
